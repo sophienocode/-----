@@ -1,0 +1,28 @@
+
+CCS Selectors
+h1 
+É a parte que seleciona o HTMLa para aplicar as regras que estão entre essas chaves.
+
+
+Class Selector
+
+"no-spaces"
+.red-heading { } 
+
+Class: É algo que podemos adicionar como um atributo a qualquer elemento HTML.
+
+id space 
+#
+
+Diferença entre ID e Seletor de Classe ; O seletor de classe pode ser aplicado a muitos elementos enquanto o ID deve ser aplicado somente a um elemento. 
+
+html element Attribute
+p           [draggable] {color: red;}
+
+.css
+p[draggable="false"] {color: red; }
+
+* {
+ // Global Selector 
+}
+
